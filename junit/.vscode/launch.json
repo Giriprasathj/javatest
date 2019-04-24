@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Employee",
+            "request": "launch",
+            "mainClass": "com.kgisl.junit.Employee",
+            "projectName": "junit"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Duplicate",
+            "request": "launch",
+            "mainClass": "com.kgisl.junit.Duplicate",
+            "projectName": "junit"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Student",
+            "request": "launch",
+            "mainClass": "com.kgisl.data.Student",
+            "projectName": "qs1"
+        }
+    ]
+}

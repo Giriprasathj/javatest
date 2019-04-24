@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Countchar",
+            "request": "launch",
+            "mainClass": "main.java.com.kgisl.junit.Countchar"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Student",
+            "request": "launch",
+            "mainClass": "com.kgisl.junit.Student",
+            "projectName": "junit"
+        }
+    ]
+}
