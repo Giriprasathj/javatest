@@ -2,6 +2,8 @@
 
 // import java.security.KeyStore.LoadStoreParameter;
 // import java.util.Arrays;
+// import java.util.Collections;
+// import java.util.Comparator;
 // import java.util.List;
 // import java.util.stream.Collectors;
 
@@ -11,40 +13,41 @@
 //     String name;
 //     String dept;
 //     float salary;
-//     Employee(int empid,String name,String dept,float salary)
-//     {
-//     this.empid=empid;
-//     this.name=name;
-//     this.dept=dept;
-//     this.salary=salary;
-//     }
 
+//     Employee(int empid, String name, String dept, float salary) {
+//         this.empid = empid;
+//         this.name = name;
+//         this.dept = dept;
+//         this.salary = salary;
+//     }
 
 //     public String getName()
 //     {
-//         return name;
+//     return name;
 
 //     }
 //     public String getDept()
 //     {
-//         return dept;
+//     return dept;
 
 //     }
 //     public int getEmpid()
 //     {
-//         return empid;
+//     return empid;
 
 //     }
 //     public float getSalary()
 //     {
-//         return salary;
+//     return salary;
 
 //     }
 //     public float getTotal()
 //     {
-//         return total;
+//     return total;
 //     }
-//     public String toString(){
-//         return "name:  "+name+"  dept  "+dept+"  empid  "+empid+"  salary "+salary+" total "+total;
+//     public String toString() {
+//         return "name:  " + name + "  dept  " + dept + "  empid  " + empid + "  salary " + salary;
 
-//     }}
+//     }
+// }
+
